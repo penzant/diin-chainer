@@ -1,0 +1,6 @@
+*~
+*.log
+*.out
+/logs/
+/test/
+/__pycache__/
